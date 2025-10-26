@@ -1,4 +1,5 @@
 # **Jigsaw Puzzle Solver — Technical Summary**
+---
 
 ## **Target**
 ![Image](https://github.com/user-attachments/assets/d6d8eeeb-2278-4fd6-8f1d-07bed5de31e2)
@@ -6,7 +7,7 @@
 ## **[Dataset](https://www.kaggle.com/datasets/shivajbd/jigsawpuzzle)**
 
 
-
+---
 
 ##  **Technical Accuracy**
 
